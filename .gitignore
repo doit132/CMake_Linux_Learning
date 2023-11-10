@@ -2,4 +2,6 @@
 **/*.cmake
 **/CMakeCache.txt
 **/Makefile
-
+**/bulid
+**/bin
+**/main
