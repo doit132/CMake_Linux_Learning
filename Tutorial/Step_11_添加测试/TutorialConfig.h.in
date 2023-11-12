@@ -1,0 +1,10 @@
+// Defien Tutorial_VERSION_MAJOR 和 Tutorial_VERSION_MINOR
+#define Tutorial_VERSION_MAJOR ${Tutorial_VERSION_MAJOR}
+#define Tutorial_VERSION_MINOR "@Tutorial_VERSION_MINOR@"
+
+// cmakedefine
+#cmakedefine Tutorial_VERSION_MAJOR ${Tutorial_VERSION_MAJOR}
+#cmakedefine Tutorial_VERSION_MINOR "@Tutorial_VERSION_MINOR@"
+
+// 用 cmakedefine 定义 USE_MYMATH
+#cmakedefine USE_MYMATH
