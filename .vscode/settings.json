@@ -1,3 +1,18 @@
 {
-    "cmake.sourceDirectory": "/home/doit/CMakeList_Linux_Learning/05_项目级的组织结构/src"
+    "cmake.sourceDirectory": "/home/doit/CMakeList_Linux_Learning/Tutorial/Step_06_链接库设为可选",
+    "files.associations": {
+        ".clang-format": "yaml",
+        "*.toml": "toml",
+        "*.ahk": "ahk2",
+        ".clangd": "yaml",
+        ".clang-tidy": "yaml",
+        ".clang": "yaml",
+        "Kconfig": "kconfig",
+        ".ccls": "yaml",
+        "*.build": "makefile",
+        "*.bak": "Log",
+        "*.cmake": "cmake",
+        "*.in": "ini",
+        "iostream": "cpp"
+    }
 }

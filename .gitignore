@@ -2,7 +2,8 @@
 **/*.cmake
 **/CMakeCache.txt
 **/Makefile
-**/bulid
+Tutorial/Step_*/build/
 **/bin
 **/main
-
+Tutorial/Step_*/build/Tutorial
+Tutorial/Step_*/build/TutorialConfig.h
